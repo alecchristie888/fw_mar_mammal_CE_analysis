@@ -1,0 +1,131 @@
+rowid,ID,url,page_views,redlistCategory,ED,studies
+1,Arctocephalus australis,https://en.wikipedia.org/wiki/South_American_fur_seal,103343,Least Concern,5.230657294,0
+2,Arctocephalus forsteri,https://en.wikipedia.org/wiki/Arctocephalus_forsteri,116741,Least Concern,5.196520348,4
+3,Arctocephalus galapagoensis,https://en.wikipedia.org/wiki/Gal%C3%A1pagos_fur_seal,108676,Endangered,5.187596287,0
+4,Arctocephalus gazella,https://en.wikipedia.org/wiki/Antarctic_fur_seal,240223,Least Concern,6.266991461,1
+5,Arctocephalus philippii,https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_fur_seal,67772,Least Concern,5.245931408,0
+6,Arctocephalus pusillus,https://en.wikipedia.org/wiki/Brown_fur_seal,202408,Least Concern,11.2210282,5
+7,Arctocephalus townsendi,https://en.wikipedia.org/wiki/Guadalupe_fur_seal,88038,Least Concern,7.373643767,1
+8,Arctocephalus tropicalis,https://en.wikipedia.org/wiki/Subantarctic_fur_seal,80297,Least Concern,6.267387118,0
+9,Balaena mysticetus,https://en.wikipedia.org/wiki/Bowhead_whale,2358159,Least Concern,18.46664595,1
+10,Balaenoptera acutorostrata,https://en.wikipedia.org/wiki/Common_minke_whale,276571,Least Concern,20.00397526,3
+11,Balaenoptera bonaerensis,https://en.wikipedia.org/wiki/Antarctic_minke_whale,160579,Near Threatened,20.00397526,0
+12,Balaenoptera borealis,https://en.wikipedia.org/wiki/Sei_whale,585297,Endangered,18.74401536,0
+13,Balaenoptera edeni,https://en.wikipedia.org/wiki/Bryde%27s_whale,645302,Least Concern,18.74401536,0
+14,Balaenoptera musculus,https://en.wikipedia.org/wiki/Blue_whale,11568091,Endangered,21.21643663,1
+15,Balaenoptera omurai,https://en.wikipedia.org/wiki/Omura%27s_whale,350109,Data Deficient,19.58398863,0
+16,Balaenoptera physalus,https://en.wikipedia.org/wiki/Fin_whale,1404862,Vulnerable,22.31916835,1
+17,Balaenoptera ricei,https://en.wikipedia.org/wiki/Rice%27s_whale,127929,Critically Endangered,19.58398863,0
+18,Berardius arnuxii,https://en.wikipedia.org/wiki/Arnoux%27s_beaked_whale,28727,Least Concern,11.56244807,0
+19,Berardius bairdii,https://en.wikipedia.org/wiki/Baird%27s_beaked_whale,75944,Least Concern,11.64455291,0
+20,Berardius minimus,https://en.wikipedia.org/wiki/Sato%27s_beaked_whale,8550,Near Threatened,11.60350049,0
+21,Callorhinus ursinus,https://en.wikipedia.org/wiki/Northern_fur_seal,241295,Vulnerable,11.32782446,1
+22,Caperea marginata,https://en.wikipedia.org/wiki/Pygmy_right_whale,222897,Least Concern,33.84090678,0
+23,Cephalorhynchus commersonii,https://en.wikipedia.org/wiki/Commerson%27s_dolphin,189596,Least Concern,7.765530175,0
+24,Cephalorhynchus eutropia,https://en.wikipedia.org/wiki/Chilean_dolphin,70518,Near Threatened,7.770621782,0
+25,Cephalorhynchus heavisidii,https://en.wikipedia.org/wiki/Heaviside%27s_dolphin,106983,Near Threatened,9.678699538,0
+26,Cephalorhynchus hectori,https://en.wikipedia.org/wiki/Hector%27s_dolphin,265425,Endangered,8.550751858,1
+27,Cystophora cristata,https://en.wikipedia.org/wiki/Hooded_seal,340812,Vulnerable,14.36493553,0
+28,Delphinapterus leucas,https://en.wikipedia.org/wiki/Beluga_whale,4231513,Least Concern,21.37410776,0
+29,Delphinus delphis,https://en.wikipedia.org/wiki/Common_dolphin,456628,Least Concern,8.263979293,8
+30,Dugong dugon,https://en.wikipedia.org/wiki/Dugong,3983916,Vulnerable,59.29626074,2
+31,Erignathus barbatus,https://en.wikipedia.org/wiki/Bearded_seal,291725,Least Concern,20.67579956,0
+32,Eschrichtius robustus,https://en.wikipedia.org/wiki/Gray_whale,1185157,Least Concern,21.8061889,3
+33,Eubalaena australis,https://en.wikipedia.org/wiki/Southern_right_whale,586237,Least Concern,14.19979928,0
+34,Eubalaena glacialis,https://en.wikipedia.org/wiki/North_Atlantic_right_whale,632168,Critically Endangered,14.10040054,3
+35,Eubalaena japonica,https://en.wikipedia.org/wiki/North_Pacific_right_whale,349462,Endangered,14.10040054,0
+36,Eumetopias jubatus,https://en.wikipedia.org/wiki/Steller_sea_lion,503725,Near Threatened,9.875371314,1
+37,Feresa attenuata,https://en.wikipedia.org/wiki/Pygmy_killer_whale,276419,Least Concern,10.18589289,1
+38,Globicephala macrorhynchus,https://en.wikipedia.org/wiki/Short-finned_pilot_whale,178318,Least Concern,9.062825108,3
+39,Globicephala melas,https://en.wikipedia.org/wiki/Long-finned_pilot_whale,320492,Least Concern,9.0532662,5
+40,Grampus griseus,https://en.wikipedia.org/wiki/Risso%27s_dolphin,424914,Least Concern,8.772989936,4
+41,Halichoerus grypus,https://en.wikipedia.org/wiki/Grey_seal,601735,Least Concern,7.409660087,10
+42,Histriophoca fasciata,https://en.wikipedia.org/wiki/Ribbon_seal,158369,Least Concern,9.427142269,0
+43,Hydrurga leptonyx,https://en.wikipedia.org/wiki/Leopard_seal,1878007,Least Concern,12.48112016,0
+44,Hyperoodon ampullatus,https://en.wikipedia.org/wiki/Northern_bottlenose_whale,150266,Near Threatened,11.98704091,0
+45,Hyperoodon planifrons,https://en.wikipedia.org/wiki/Southern_bottlenose_whale,55394,Least Concern,11.70957706,0
+46,Indopacetus pacificus,https://en.wikipedia.org/wiki/Tropical_bottlenose_whale,36652,Least Concern,11.34560742,0
+47,Inia geoffrensis,https://en.wikipedia.org/wiki/Amazon_river_dolphin,1715184,Endangered,35.83910599,1
+48,Kogia breviceps,https://en.wikipedia.org/wiki/Pygmy_sperm_whale,370502,Least Concern,34.13963141,4
+49,Kogia sima,https://en.wikipedia.org/wiki/Dwarf_sperm_whale,403187,Least Concern,34.13963141,1
+50,Lagenodelphis hosei,https://en.wikipedia.org/wiki/Fraser%27s_dolphin,57864,Least Concern,8.236297877,0
+51,Lagenorhynchus acutus,https://en.wikipedia.org/wiki/Atlantic_white-sided_dolphin,150343,Least Concern,8.354005072,5
+52,Lagenorhynchus albirostris,https://en.wikipedia.org/wiki/White-beaked_dolphin,98007,Least Concern,8.477175814,0
+53,Lagenorhynchus australis,https://en.wikipedia.org/wiki/Peale%27s_dolphin,40831,Least Concern,8.674025164,0
+54,Lagenorhynchus cruciger,https://en.wikipedia.org/wiki/Hourglass_dolphin,122907,Least Concern,8.74016054,0
+55,Lagenorhynchus obliquidens,https://en.wikipedia.org/wiki/Pacific_white-sided_dolphin,199743,Least Concern,8.136448807,2
+56,Lagenorhynchus obscurus,https://en.wikipedia.org/wiki/Dusky_dolphin,170129,Least Concern,8.135926976,1
+57,Leptonychotes weddellii,https://en.wikipedia.org/wiki/Weddell_seal,346900,Least Concern,12.28088067,0
+58,Lissodelphis borealis,https://en.wikipedia.org/wiki/Northern_right_whale_dolphin,69916,Least Concern,8.095997234,2
+59,Lissodelphis peronii,https://en.wikipedia.org/wiki/Southern_right_whale_dolphin,118970,Least Concern,8.095530928,0
+60,Lobodon carcinophaga,https://en.wikipedia.org/wiki/Crabeater_seal,325039,Least Concern,12.48112016,0
+61,Megaptera novaeangliae,https://en.wikipedia.org/wiki/Humpback_whale,3812689,Least Concern,21.87406254,12
+62,Mesoplodon bidens,https://en.wikipedia.org/wiki/Sowerby%27s_beaked_whale,57911,Least Concern,10.95551547,0
+63,Mesoplodon bowdoini,https://en.wikipedia.org/wiki/Andrews%27_beaked_whale,24370,Data Deficient,10.68735591,0
+64,Mesoplodon carlhubbsi,https://en.wikipedia.org/wiki/Hubbs%27_beaked_whale,22946,Data Deficient,11.37600133,0
+65,Mesoplodon densirostris,https://en.wikipedia.org/wiki/Blainville%27s_beaked_whale,93740,Least Concern,11.21307379,0
+66,Mesoplodon eueu,https://en.wikipedia.org/wiki/Ramari%27s_beaked_whale,8840,Data Deficient,11.51130567,0
+67,Mesoplodon europaeus,https://en.wikipedia.org/wiki/Gervais%27s_beaked_whale,4500,Least Concern,11.83925476,0
+68,Mesoplodon ginkgodens,https://en.wikipedia.org/wiki/Ginkgo-toothed_beaked_whale,42722,Data Deficient,11.22163304,0
+69,Mesoplodon grayi,https://en.wikipedia.org/wiki/Gray%27s_beaked_whale,40357,Least Concern,11.71287442,0
+70,Mesoplodon hectori,https://en.wikipedia.org/wiki/Hector%27s_beaked_whale,29432,Data Deficient,11.36481011,0
+71,Mesoplodon hotaula,https://en.wikipedia.org/wiki/Deraniyagala%27s_beaked_whale,18935,Data Deficient,11.51130567,0
+72,Mesoplodon layardii,https://en.wikipedia.org/wiki/Strap-toothed_whale,89453,Least Concern,12.80417636,0
+73,Mesoplodon mirus,https://en.wikipedia.org/wiki/True%27s_beaked_whale,56215,Least Concern,11.1821905,0
+74,Mesoplodon perrini,https://en.wikipedia.org/wiki/Perrin%27s_beaked_whale,30765,Endangered,11.61106094,0
+75,Mesoplodon peruvianus,https://en.wikipedia.org/wiki/Pygmy_beaked_whale,27972,Least Concern,11.15642977,0
+76,Mesoplodon stejnegeri,https://en.wikipedia.org/wiki/Stejneger%27s_beaked_whale,29137,Near Threatened,11.29240401,0
+77,Mesoplodon traversii,https://en.wikipedia.org/wiki/Spade-toothed_whale,69320,Data Deficient,12.74149898,0
+78,Mirounga angustirostris,https://en.wikipedia.org/wiki/Northern_elephant_seal,701194,Least Concern,11.20600898,1
+79,Mirounga leonina,https://en.wikipedia.org/wiki/Southern_elephant_seal,1056565,Least Concern,11.20600898,0
+80,Monachus monachus,https://en.wikipedia.org/wiki/Mediterranean_monk_seal,508675,Endangered,16.80653843,1
+81,Monodon monoceros,https://en.wikipedia.org/wiki/Narwhal,7636171,Least Concern,21.37410776,0
+82,Neomonachus schauinslandi,https://en.wikipedia.org/wiki/Hawaiian_monk_seal,638005,Endangered,16.80653843,8
+83,Neophoca cinerea,https://en.wikipedia.org/wiki/Australian_sea_lion,206593,Endangered,7.609659935,2
+84,Neophocaena asiaeorientalis,https://en.wikipedia.org/wiki/Yangtze_finless_porpoise,65342,Endangered,6.885601082,1
+85,Neophocaena phocaenoides,https://en.wikipedia.org/wiki/Indo-Pacific_finless_porpoise,21234,Vulnerable,6.885601082,2
+86,Odobenus rosmarus,https://en.wikipedia.org/wiki/Walrus,4755667,Vulnerable,25.95671407,0
+87,Ommatophoca rossii,https://en.wikipedia.org/wiki/Ross_seal,174849,Least Concern,12.28088067,0
+88,Orcaella brevirostris,https://en.wikipedia.org/wiki/Irrawaddy_dolphin,674883,Endangered,6.474693779,2
+89,Orcaella heinsohni,https://en.wikipedia.org/wiki/Australian_snubfin_dolphin,93359,Vulnerable,6.474693779,1
+90,Orcinus orca,https://en.wikipedia.org/wiki/Orca,2909066,Data Deficient,8.304788909,4
+91,Otaria byronia,https://en.wikipedia.org/wiki/South_American_sea_lion,201053,Least Concern,7.656093668,1
+92,Pagophilus groenlandicus,https://en.wikipedia.org/wiki/Harp_seal,805197,Least Concern,9.427142269,0
+93,Peponocephala electra,https://en.wikipedia.org/wiki/Melon-headed_whale,266647,Least Concern,10.86916547,0
+94,Phoca largha,https://en.wikipedia.org/wiki/Spotted_seal,172858,Least Concern,6.251641069,0
+95,Phoca vitulina,https://en.wikipedia.org/wiki/Harbor_seal,1019499,Least Concern,6.251641069,16
+96,Phocarctos hookeri,https://en.wikipedia.org/wiki/New_Zealand_sea_lion,202813,Endangered,7.609659935,0
+97,Phocoena dioptrica,https://en.wikipedia.org/wiki/Spectacled_porpoise,61683,Least Concern,8.296611569,0
+98,Phocoena phocoena,https://en.wikipedia.org/wiki/Harbour_porpoise,550136,Least Concern,8.47088596,30
+99,Phocoena sinus,https://en.wikipedia.org/wiki/Vaquita,2374188,Critically Endangered,10.48392406,0
+100,Phocoena spinipinnis,https://en.wikipedia.org/wiki/Burmeister%27s_porpoise,50625,Near Threatened,10.35393774,1
+101,Phocoenoides dalli,https://en.wikipedia.org/wiki/Dall%27s_porpoise,218853,Least Concern,8.220674444,1
+102,Physeter macrocephalus,https://en.wikipedia.org/wiki/Sperm_whale,6947625,Vulnerable,42.23963141,8
+103,Platanista gangetica,https://en.wikipedia.org/wiki/Ganges_river_dolphin,284754,Endangered,50.03310219,1
+104,Platanista minor,https://en.wikipedia.org/wiki/Indus_river_dolphin,195897,Endangered,50.03310219,0
+105,Pontoporia blainvillei,https://en.wikipedia.org/wiki/La_Plata_dolphin,146913,Vulnerable,35.83910599,2
+106,Pseudorca crassidens,https://en.wikipedia.org/wiki/False_killer_whale,1886147,Near Threatened,10.16206859,0
+107,Pusa caspica,https://en.wikipedia.org/wiki/Caspian_seal,253244,Endangered,6.652024889,0
+108,Pusa hispida,https://en.wikipedia.org/wiki/Ringed_seal,461556,Least Concern,6.579331883,0
+109,Pusa sibirica,https://en.wikipedia.org/wiki/Baikal_seal,679639,Least Concern,6.575214296,0
+110,Sotalia fluviatilis,https://en.wikipedia.org/wiki/Tucuxi,258586,Endangered,6.433884163,2
+111,Sotalia guianensis,https://en.wikipedia.org/wiki/Guiana_dolphin,44581,Near Threatened,6.433884163,1
+112,Sousa chinensis,https://en.wikipedia.org/wiki/Indo-Pacific_humpback_dolphin,100227,Vulnerable,8.878578954,2
+113,Sousa plumbea,https://en.wikipedia.org/wiki/Indian_Ocean_humpback_dolphin,31064,Endangered,8.873669873,0
+114,Sousa sahulensis,https://en.wikipedia.org/wiki/Australian_humpback_dolphin,29595,Vulnerable,8.873669873,0
+115,Sousa teuszii,https://en.wikipedia.org/wiki/Atlantic_humpback_dolphin,30483,Critically Endangered,8.868760792,0
+116,Stenella attenuata,https://en.wikipedia.org/wiki/Pantropical_spotted_dolphin,101571,Least Concern,8.687480876,1
+117,Stenella clymene,https://en.wikipedia.org/wiki/Clymene_dolphin,76627,Least Concern,8.350078892,0
+118,Stenella coeruleoalba,https://en.wikipedia.org/wiki/Striped_dolphin,168703,Least Concern,8.348515849,1
+119,Stenella frontalis,https://en.wikipedia.org/wiki/Atlantic_spotted_dolphin,140744,Least Concern,8.676527795,2
+120,Stenella longirostris,https://en.wikipedia.org/wiki/Spinner_dolphin,322799,Least Concern,8.478274361,3
+121,Steno bredanensis,https://en.wikipedia.org/wiki/Rough-toothed_dolphin,113636,Least Concern,8.380780158,4
+122,Tasmacetus shepherdi,https://en.wikipedia.org/wiki/Shepherd%27s_beaked_whale,45309,Data Deficient,11.67312067,0
+123,Trichechus inunguis,https://en.wikipedia.org/wiki/Amazonian_manatee,390910,Vulnerable,47.89600835,1
+124,Trichechus manatus,https://en.wikipedia.org/wiki/West_Indian_manatee,843098,Vulnerable,42.1965272,6
+125,Trichechus senegalensis,https://en.wikipedia.org/wiki/African_manatee,235576,Vulnerable,42.1965272,0
+126,Tursiops aduncus,https://en.wikipedia.org/wiki/Indo-Pacific_bottlenose_dolphin,141689,Near Threatened,8.315390545,3
+127,Tursiops truncatus,https://en.wikipedia.org/wiki/Common_bottlenose_dolphin,503241,Least Concern,8.31642817,23
+128,Zalophus californianus,https://en.wikipedia.org/wiki/California_sea_lion,755600,Least Concern,9.386519912,6
+129,Zalophus wollebaeki,https://en.wikipedia.org/wiki/Gal%C3%A1pagos_sea_lion,241985,Endangered,9.386519912,0
+130,Ziphius cavirostris,https://en.wikipedia.org/wiki/Cuvier%27s_beaked_whale,800784,Least Concern,11.7595706,0
